@@ -5,4 +5,10 @@
 3. Typing "npm start" to run web server.
 4. if not login web will be show error (Please Login with metamask).
 
+## feature.
+1. Check metamask was installed.
+2. Get current address.
+3. Get current your ETH you have.
+4. Can transfer your ETH to other address
+5. Generate new address. (Show on console.log)
 
