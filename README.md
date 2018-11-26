@@ -8,7 +8,7 @@
 ## features.
 1. Check metamask was installed.
 2. Get current address.
-3. Get current your ETH you have.
+3. Get current your ETH that you have.
 4. Can transfer your ETH to other address
 5. Generate new address. (Show on console.log)
 
